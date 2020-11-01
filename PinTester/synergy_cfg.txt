@@ -192,7 +192,7 @@ Synergy Configuration
       PA08 107 GLCDC0_LCD_DATA09 GLCD_Controller__Pin_Option_B_LCD_DATA09_B Medium - "Peripheral mode" CMOS None "GLCDC0: LCD_DATA09" 
       PA09 108 GLCDC0_LCD_DATA08 GLCD_Controller__Pin_Option_B_LCD_DATA08_B Medium - "Peripheral mode" CMOS None "GLCDC0: LCD_DATA08" 
       PA10 109 GLCDC0_LCD_DATA07 GLCD_Controller__Pin_Option_B_LCD_DATA07_B Medium - "Peripheral mode" CMOS None "GLCDC0: LCD_DATA07" 
-      PB00 16 USBHS0_VBUSEN USB_High_Speed_USBHS_VBUSEN Low - "Peripheral mode" CMOS None "SCI3: SCK; USBHS0: VBUSEN" 
+      PB00 16 USBHS0_VBUSEN USB_High_Speed_USBHS_VBUSEN Medium - "Peripheral mode" CMOS None "SCI3: SCK; USBHS0: VBUSEN" 
       PB01 17 USBHS0_VBUS USB_High_Speed_USBHS_VBUS Low - "Peripheral mode" CMOS None "SCI3: CTS_RTS_SS; USBHS0: VBUS" 
       PVSSUSBHS 29 USBHS0_PVSSUSBHS - - - - - - - 
       RES 67 - - - - - - - - 
